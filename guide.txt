@@ -1,0 +1,30 @@
+This is a Solidity smart contract to add and arrange token to different slabs.
+
+It is Deployed on Goerli Test Network.
+
+We can view and verify this on Goerli Test Net -  https://goerli.etherscan.io/
+		
+		Tx hash - 	0x72be93b26e03ab7d99133fcd20ca92063c08f633f40b58846380401458d084ed
+
+		From 	- 	0x7a17349033f8f7456e0be401e431217286294fcc (My Goerli wallet address)
+
+		To 		- 	0x46694e90bad31abcf156456a1d9973a7cc825cb5  (Deployed Smart Contrcat Address)
+
+
+
+
+We can Test it's feature and functionig by ,
+
+1.> By intracting through this already deplyed contract in remix.ide.
+ 
+ 							or
+2.> By deploying again this yebelo.sol in your local remix ide
+
+
+On successful Deployment, we wil get Three functionality in Remix ide 
+
+a.) Deposite -> 				Here we can deposite the amount you want to store in the slabs.
+
+b.) EnquireYourTokenSlab ->   	Here ywe can enquire slabs in which you tokens are present by just providing your address.
+
+c.) Total Supply ->  			It gives the total tokens present in the slabs.
