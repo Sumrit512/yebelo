@@ -1,7 +1,0 @@
-
-
-Here i have mapped the deposite tokens with the respective caller address.
-
-This Contract contain lot of if else because i taught as the no of slabs is fixed, I will Avoid using the LOOPs, which could only increase the Gas price.
-
-So, it it currectly in order of O(1), so will consume minimum gas.
